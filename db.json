@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -46,7 +46,19 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 1
+    },
+    {
+      "name": "Sid",
+      "image": "https://static.wikia.nocookie.net/true-villains/images/8/81/Sid_Phillips.png/revision/latest?cb=20200607023539",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "Real Woody",
+      "image": "https://s7.orientaltrading.com/is/image/OrientalTrading/VIEWER_ZOOM/mens-deluxe-toy-story-4-woody-costume-kit~13939708",
+      "likes": 1,
+      "id": 10
     }
   ]
 }
